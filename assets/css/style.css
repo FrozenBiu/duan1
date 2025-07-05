@@ -728,9 +728,11 @@ a {
   height: 6px;
   border-radius: 50%;
   background: #5f5b53;
+  cursor: pointer;
 }
 .our-blog .blog-block .dots .dot.active {
   background: var(--primary-color);
+  cursor: default;
 }
 
 /* ===========Footer============ */
