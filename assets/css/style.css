@@ -730,7 +730,7 @@ a {
   background: #5f5b53;
 }
 .our-blog .blog-block .dots .dot.active {
-  background: #ffb900;
+  background: var(--primary-color);
 }
 
 /* ===========Footer============ */
